@@ -1,1 +1,2 @@
 Primera linea archivo.txt
+Añado linea 2
